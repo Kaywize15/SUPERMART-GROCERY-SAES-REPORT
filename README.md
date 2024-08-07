@@ -9,6 +9,7 @@ The Dataset contains the following columns:
 * Sales
 * Profit
 * Order Date etc.
+
 Deliverables:
 * Getting the Total sales per day
 * Knowing the Top5 city by sales using Seaborn Library
